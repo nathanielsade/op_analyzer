@@ -14,10 +14,10 @@ A flexible data analysis script that extracts and processes data from different 
 # Clone the repository
 git clone https://github.com/nathanielsade/op_analyzer.git
 
-cd op_analyzer
-
 # Install required library
 pip install requests
+
+cd op_analyzer
 ```
 
 ## Usage
