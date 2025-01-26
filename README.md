@@ -14,6 +14,8 @@ A flexible data analysis script that extracts and processes data from different 
 # Clone the repository
 git clone https://github.com/nathanielsade/op_analyzer.git
 
+cd op_analyzer
+
 # Install required library
 pip install requests
 ```
@@ -22,8 +24,6 @@ pip install requests
 ```bash
 # Basic execution
 python app.py "Github" "1"
-
-cd op_analyzer
 
 # Analyze StackOverflow data
 python app.py "Stackoverflow"
