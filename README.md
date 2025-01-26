@@ -23,6 +23,8 @@ pip install requests
 # Basic execution
 python app.py "Github" "1"
 
+cd op_analyzer
+
 # Analyze StackOverflow data
 python app.py "Stackoverflow"
 ```
