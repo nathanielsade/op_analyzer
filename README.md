@@ -12,7 +12,7 @@ A flexible data analysis script that extracts and processes data from different 
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/nathanielsade/op_analyzer_service.git
+git clone https://github.com/nathanielsade/op_analyzer.git
 
 # Install required library
 pip install requests
