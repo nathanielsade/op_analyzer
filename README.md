@@ -23,10 +23,10 @@ cd op_analyzer
 ## Usage
 ```bash
 # Basic execution
-python app.py "Github" "1"
+python3 app.py "Github" "1"
 
 # Analyze StackOverflow data
-python app.py "Stackoverflow"
+python3 app.py "Stackoverflow"
 ```
 
 ## Command-Line Arguments
